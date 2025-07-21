@@ -1,0 +1,16 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+Instagram,MBLE_June,1,1001,MuscleBlaze,2025-06-02,3,6400
+YouTube,HKV_July,2,1005,HKVitals,2025-07-06,2,4200
+Instagram,GZ_July,3,1010,Gritzo,2025-07-02,5,6300
+Twitter,WLLS_June,4,1008,EliteWell,2025-06-09,1,700
+YouTube,MBLE_July,5,1017,MuscleBlaze,2025-07-15,2,5900
+Instagram,GZ_Aug,6,1021,Gritzo,2025-08-05,6,8100
+Twitter,HKV_Aug,7,1026,HKVitals,2025-08-14,1,1800
+YouTube,WLLS_July,8,1031,EliteWell,2025-07-18,3,2500
+Instagram,MBLE_Aug,9,1035,MuscleBlaze,2025-08-22,4,7600
+Twitter,GZ_July,10,1037,Gritzo,2025-07-27,1,900
+Instagram,HKV_Aug,11,1040,HKVitals,2025-08-30,2,3700
+YouTube,MBLE_Sept,12,1044,MuscleBlaze,2025-09-05,1,2800
+Instagram,WLLS_Sept,13,1048,EliteWell,2025-09-03,2,1700
+Twitter,HKV_Sept,14,1050,HKVitals,2025-09-08,1,1600
+YouTube,GZ_Sept,15,1052,Gritzo,2025-09-11,2,2200
